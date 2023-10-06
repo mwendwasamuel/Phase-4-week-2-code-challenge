@@ -39,7 +39,7 @@ You have multiple options to check your progress:
     Interact with the API via the React frontend.
     Use Postman to make requests to the Flask server.
 
-**he frontend code is available to help you test your API in a realistic setting.**
+**The frontend code is available to help you test your API in a realistic setting.**
 Models
 
 You need to create the following relationships in your database:
